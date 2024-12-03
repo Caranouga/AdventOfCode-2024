@@ -12,7 +12,9 @@ This repository contains my solutions for the Advent of Code 2024 challenge. I w
 - [Day 2: Red-Nosed Reports](02/)
   - [Part 1](02/part01/index.py)
   - [Part 2](02/part02/index.py)
-- [Day 3: SOON](03/)
+- [Day 3: Mull It Over](03/)
+  - [Part 1](03/part01/index.py)
+  - [Part 2](03/part02/index.py) 
 
 
 ## Current Progress
