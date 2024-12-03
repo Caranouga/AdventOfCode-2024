@@ -20,7 +20,7 @@ This repository contains my solutions for the Advent of Code 2024 challenge. I w
 | ---- | ------ | ---- | ------ | ---- | ------ | ---- | ------ | ---- | ------ |
 | 01 | :star: :star: | 06 | :calendar:   | 11 | :calendar:   | 16 | :calendar:   | 21 | :calendar:   |
 | 02 | :star: :star: | 07 | :calendar:   | 12 | :calendar:   | 17 | :calendar:   | 22 | :calendar:   |
-| 03 | :star:    | 08 | :calendar:   | 13 | :calendar:   | 18 | :calendar:   | 23 | :calendar:   |
+| 03 | :star: :star:   | 08 | :calendar:   | 13 | :calendar:   | 18 | :calendar:   | 23 | :calendar:   |
 | 04 | :calendar:    | 09 | :calendar:   | 14 | :calendar:   | 19 | :calendar:   | 24 | :calendar:   |
 | 05 | :calendar:    | 10 | :calendar:   | 15 | :calendar:   | 20 | :calendar:   | 25 | :calendar:   |
 
